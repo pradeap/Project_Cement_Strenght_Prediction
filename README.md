@@ -1,1 +1,1 @@
-# Project_Cement_Strenght_Prediction
+# Project_Cement_Strength_Prediction
